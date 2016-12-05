@@ -1,0 +1,136 @@
+1  firefox
+    2  iceweasel
+    3  i hate ice and weasels
+    4  guioasq
+    5  guido
+    6  earf
+    7  firefox
+    8  aptitude update
+    9  apt-get update && apt-get install aptitude
+   10  aptitude install htop
+   11  cat /etc/apt/sources.list
+   12  htop
+   13  apt-cache search terminal
+   14  apt-cache search terminal | less
+   15  shutdown -h now
+   16  dpkg --configure  -a
+   17  apt-get update
+   18  dpkg --configure  -a
+   19  dpkg --configure -a
+   20  apt-get update
+   21  init 5
+   22  apt-get dist-upgrade -y
+   23  apt-get update
+   24  apt-get install linux-headers-$(uname -r) -y
+   25  apt-get update
+   26  apt-get install linux-headers-$(uname -r) -y
+   27  uname -a
+   28  ls -rt
+   29  ls -rt /media/
+   30  mkdir -p /mnt/analysis
+   31  cp /media/sf_digitalforensics/images/newfloppy.img /mnt/analysis
+   32  cp /media/sf_digitalforensics/images/newfloppy.img
+   33  cp /media/sf_digitalforensics/images/newfloppy.img /mnt/analysis
+   34  mkdir images
+   35  cp /media/sf_digitalforensics/images/newfloppy.img images/
+   36  cd images/
+   37  ls -r
+   38  ls -rt
+   39  sha
+   40  reboot
+   41  shutdown -r now
+   42  apt-get install linux-headers-$(uname -r) -y
+   43  clean
+   44  ls /media/cdrom0/
+   45  cp /media/cdrom0/VBoxLinuxAdditions.run .
+   46  ./VBoxLinuxAdditions.run
+   47  shutdown -r now
+   48  ls
+   49  mkdir -p /mnt/analysis/
+   50  sha1sum /media//sf_digitalforensics/images/newfloppy.img
+   51  cd /mnt/analysis/
+   52  mkdir ~/evid
+   53  mkdir ~/evid/
+   54  find .-type f -exec sha1sum {} \; > ~/evid/sha.filelist
+   55  find . -type f -exec sha1sum {} \; > ~/evid/sha.filelist
+   56  cd
+   57  cd ..
+   58  ls
+   59  cd
+   60  ls /media/cdrom
+   61  tree
+   62  ls /media/cdrom
+   63  cd Downloads/
+   64  xxd rangel_floppy.img |grep ffd8|grep -v "0000 0000"
+   65  dd if=rangel_floppy.img skip=845800 bs=1 count =3000 of=rangel3.jpg
+   66  apt-get update
+   67  dd if=rangel_floppy.img skip=845800 bs=1 count =3000 of=rangel3.jpg
+   68  dd if=rangel_floppy.img skip=8673200 bs=1 count =3000 of=rangel3.jpg
+   69  dd if=rangel_floppy.img skip=8673200 bs=1 count =12288 of=rangel3.jpg
+   70  dd if=rangel_floppy.img skip=8673200 bs=1 count=12288 of=rangel3.jpg
+   71  display rangel3.jpg
+   72  dd if=rangel_floppy.img skip=8673280 bs=1 count=12288 of=rangel3.jpg
+   73  display rangel3.jpg
+   74  cp rangel3.jpg > newpics3.jpg /media/sf_Downloads/
+   75  ls
+   76  xxd sanmartin_floppy.img |grep ffd8|grep -v "0000 0000"
+   77  xxd sanmartin_floppy.img |grep ffd8
+   78  ls
+   79  xxd garza_floppy.img |grep ffd8
+   80  xxd garza_floppy.img |grep ffd8|grep -v "0000 0000"
+   81  dd if=garza_floppy.img skip=8730624 bs=1 count=416 of=garza1.jpg
+   82  display garza1.jpg
+   83  dd if=garza_floppy.img skip=8730624 bs=1 count=466432 of=garza1.jpg
+   84  display garza1.jpg
+   85  cp garza1.jpg > newpics4.jpg /media/sf_Downloads/
+   86  xxd garza_floppy.img |grep ffd8|grep -v "0000 0000"
+   87  dd if=garza_floppy.img skip=9197056 bs=1 count=764928 of=garza2.jpg
+   88  display garza2.jpg
+   89  cp garza2.jpg > newpics5.jpg /media/sf_Downloads/
+   90  xxd garza_floppy.img |grep ffd8|grep -v "0000 0000"
+   91  dd if=garza_floppy.img skip=9961984 bs=1 count=1288704 of=garza3.jpg
+   92  display garza3.jpg
+   93  cp garza3.jpg > newpics.jpg /media/sf_Downloads/
+   94  firefox
+   95  history
+   96  history > history2.txt
+   97  history > history2.txt /media/sf_Downloads/
+   98  ls
+   99  history
+  100  cd Downloads/
+  101  ls
+  102  history > history.txt
+  103  ls
+  104  cat history.txt
+  105  ls
+  106  cp history.txt > history2.txt /media/sf_Downloads/
+  107  history
+  108  firefox
+  109  history
+  110  pico stuff.txt
+  111  wget http://d22.ninja/digitalforensics_1617/resources/2013-02-09-wheezy-raspbian.zip
+  112  lr -rt
+  113  ls -rt
+  114  fdisk -l 2013-02-09-wheezy-raspbian.zip
+  115  ls
+  116  unzip
+  117  unzip 2013-02-09-wheezy-raspbian.zip
+  118  fdisk -l 2013-02-09-wheezy-raspbian.zip
+  119  ls
+  120  fdisk -l 2013-02-09-wheezy-raspbian.img
+  121  mount -v -o offset=4194304 -t vfat 2013-02-09-wheezy-raspbian.img /mnt/SOMEDIRYOUMADE1
+  122  cd /mnt
+  123  mkdir SOMEDIRYOUMADE1
+  124  CD
+  125  cd
+  126  mount -v -o offset=4194304 -t vfat 2013-02-09-wheezy-raspbian.img /mnt/SOMEDIRYOUMADE1
+  127  ls /mnt/SOMEDIRYOUMADE1/
+  128  cd /mnt/
+  129  mkdir SOMEDIRYOUMADE1/
+  130  mkdir SOMEDIRYOUMADE2
+  131  CD
+  132  cd
+  133  mount -v -o offset=62914560  2013-02-09-wheezy-raspbian.img /mnt/SOMEDIRYOUMADE1
+  134  ls /mnt/SOMEDIRYOUMADE2/
+  135  history Doria_7_commandhistory_102016.txt
+  136  history >  Doria_7_commandhistory_102016.txt

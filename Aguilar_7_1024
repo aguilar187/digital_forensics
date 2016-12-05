@@ -1,0 +1,19 @@
+
+What does it say next to Units?
+It displays 'sectors of 1*512=512 bytes'.
+
+How big is each sector?
+They are 512 bytes.
+
+What are the start blocks for the partitions?
+Start blocks are 8192 and 122880.
+
+Give the size of each sector and the start of each partition, what is the
+unit size multiplied by the start block for each partition?
+1st -4194304
+2nd -62914560
+
+You can see the first and second partitions and also the sector size of the
+zipped image
+
+
